@@ -40,5 +40,5 @@ no writing keystrokes to disk. See `SECURITY.md` in the app repo.
 
 ## Licensing
 
-By contributing you agree your work is dual-licensed under MIT and
-Apache-2.0, matching the project.
+By contributing, you agree your contribution is licensed under the same terms as the repository you're contributing to.
+Across the org that means code under MIT and Apache-2.0, and documentation and other content under CC-BY-4.0.
